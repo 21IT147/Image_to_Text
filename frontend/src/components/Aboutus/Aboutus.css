@@ -1,0 +1,22 @@
+/* AboutUs Container */
+.about-us {
+    padding: 20px;
+  }
+  
+  /* AboutUs Content */
+  .about-us-content {
+    max-width: 800px; /* Adjust max-width */
+    margin: 0 auto; /* Center content horizontally */
+  }
+  
+  /* AboutUs Title */
+  .about-us h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* AboutUs Paragraph */
+  .about-us p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  

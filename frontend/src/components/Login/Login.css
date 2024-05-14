@@ -1,0 +1,52 @@
+/* Styles for the login container */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px; /* Set height of container */
+}
+
+/* Styles for the login form */
+.login-form {
+  width: 500px;
+  height: 500px;
+  padding: 20px;
+  background-color: #4c9e9e;
+  border: 1px solid #1a1313; /* Add border */
+  border-radius: 10px;
+}
+
+/* Styles for the headings */
+.login-form h3 {
+  color: #fbfbfb;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Styles for the input fields */
+.login-form input[type="email"],
+.login-form input[type="password"] {
+  width: 90%;
+  padding: 10px;
+  
+  margin-bottom: 15px;
+  border: 1px solid #cccccc; /* Add border */
+  border-radius: 5px;
+}
+
+/* Styles for the submit button */
+.login-form .btn-primary {
+  width: 40%;
+  margin-top: 100px;
+  align-items: center;
+  margin-left: 30%;
+  background-color: antiquewhite;
+  border-radius: 5px;
+  height: 40px;
+}
+
+.mb-3 label{
+  color: white;
+  font-size: 20px;
+}
