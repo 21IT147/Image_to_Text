@@ -14,6 +14,9 @@ function AboutUs() {
     <li>You can also view your uploaded images on the home screen after logging in.</li>
     <li>You can view your name, email, and the number of images uploaded by you on the profile screen.</li>
     <li>You can also logout from the profile screen.</li>
+    <li>email : a@gmail.com</li>
+    <li>password : 1234</li>
+    <li>This are email and password if you want to see uploaded image without uploading it.</li>
   </ul>
 </div>
 
